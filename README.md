@@ -42,6 +42,7 @@ This program solves Sudoku puzzles by implementing a backtracking algorithm. It 
 **Example Input:**
 
 0 3 0 0 5 0 0 4 0
+
 0 0 8 0 1 0 5 0 0
 4 0 0 8 0 6 0 0 1
 0 0 5 0 0 0 9 0 0
